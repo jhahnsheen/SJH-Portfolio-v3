@@ -1,1 +1,2 @@
-# SJH-Portfolio-v3
+# Sheen Joseph Hahn's Portfolio v3
+
